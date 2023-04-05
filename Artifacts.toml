@@ -1,0 +1,288 @@
+[[cfastcdr]]
+arch = "aarch64"
+git-tree-sha1 = "bd662e43293c1617676496da7003ac1374a25a02"
+os = "macos"
+
+    [[cfastcdr.download]]
+    sha256 = "2b98c7b3772acef4612b87df4a0c41cb819ce3eac68dfeb7210db4eff26ba8dd"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[cfastcdr]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "59dcea29f5bd20dca1049eb8791a6aabdba7bda6"
+libc = "glibc"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "4b67d69ecf99229c94db09b45b354a75220462b630c1ff8e7216ea6ae5e26090"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[cfastcdr]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fa6418bd1d71764cf9d5f42de8a71d175e51e001"
+libc = "glibc"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "d7941c3008235bb9ee03ade2d4bbf0b2bc467572f064122c19b1b068cbe73157"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[cfastcdr]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2348243052d82350353944ae1a30a4c80ef1b528"
+libc = "musl"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "f0062d33de750e48843bce3eff49f4e0d8d753b16f30795f2523943a97e13153"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[cfastcdr]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "54649caeb70c792573374283d848ad574b1ac70f"
+libc = "musl"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "9e19f35f369af38eb0032494045be5d217008c784163c11be132b1b2483393e3"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[cfastcdr]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "62ac9fb367531b9ee203f0d745f4168b26dd7d5d"
+libc = "glibc"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "ca127fb03c15cc6e7fcfbb034c3c9e60c47dc5610ad83aedf84755ba67521ffc"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[cfastcdr]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1444aebfb87328b2e7acb2261b2f11ec7d065f85"
+libc = "glibc"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "962f068b1520647544dadd02a10f860fd9585a3765654e462e349f19319ba57a"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[cfastcdr]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "89ddbd192830cc2c5ca376d0b4cc35df8a88e095"
+libc = "musl"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "3e10ccb5aae32e477e18165a8404c874bf40d9ccfac9fdc768494f3edfec242b"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[cfastcdr]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5896c5dde497668afe84d9ed8765fb5d8a07a7c0"
+libc = "musl"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "d6ac783226d6b0078ff197eb443c264c11423ea3464536f2ed72d22a6d2926a2"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[cfastcdr]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "53693cb8acef3f291e3804cf20e6ce19b0935222"
+libc = "glibc"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "7a214d472a20d22aa1a288a1fa25ca2aeef9cfdda0944e659f576c537e04f5f3"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[cfastcdr]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d98b374682c205750f3f7aab5b922ecb55d19e71"
+libc = "glibc"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "19026ddc68a3122f7250a7337c91d4cf4cbc08e44320de9852520045ed0ca5cf"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[cfastcdr]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b607d638698b5b8fdc625232b63024fb551a8a63"
+libc = "musl"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "575e718a157361badcc6951dd522038afb99d70bc0490ebc12eff5cf4061bf57"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[cfastcdr]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2ee79f657d0ffe9cc160d2e63facec1b41a2e6b8"
+libc = "musl"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "3d47bf3701be43d1bea15dfb6af13ed51bd5bfeda0247ad3f178e1bf5218fef2"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[cfastcdr]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9db3e99021f77cb93698c0668889e10efeded14b"
+libc = "glibc"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "c03ad5d77ea9cd1b4399c948f7f3841c1bf77a40d6603abced967bff1323aac3"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[cfastcdr]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fb2567b8d851bddfad5c9c9f7fe12fd6c7e9a2a6"
+libc = "glibc"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "2097b65031e76ea16dcf12e87dd38f4d4de847eb35f6a62f31d9b76dd91f6dd0"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[cfastcdr]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5af8b3b663ef69788f5047071e33719869a135f1"
+libc = "musl"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "e9434d34f0b893f7a623a9772e9ed5db55e38059db5768920cee4deb0942560a"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.i686-linux-musl-cxx03.tar.gz"
+[[cfastcdr]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fc7e604c9c90b08dc5d31f32cea3da0230c3551b"
+libc = "musl"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "417ec83170ca7d2acaa860c2908229b6624df9da15124761984e3b92eed6e063"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.i686-linux-musl-cxx11.tar.gz"
+[[cfastcdr]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c4de8eef7d91ba1f5f25b2eadc6b8ad79cb70508"
+os = "windows"
+
+    [[cfastcdr.download]]
+    sha256 = "824f9cd1f622dc6e9767b321c6e2e928a43db912419b482fc5bab6b7f31333d2"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[cfastcdr]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "24be7f5be597a54b0cb7bb92d53abd73fc5fd484"
+os = "windows"
+
+    [[cfastcdr.download]]
+    sha256 = "d8e0d987f57b00c916934f2c2a016fbcb2c238479866b52b389fe49b320a1a5f"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[cfastcdr]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f3f39262d7b8f784ccdddac303880a1c2cca7702"
+libc = "glibc"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "dcbb7743b702dc5c2c46f2a42f5cdeb75ea6fd30a66a3501c6b0e13dcb0eaa62"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[cfastcdr]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d6b293dd435c54e8960d19091541a85845a699d5"
+libc = "glibc"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "0ece6ec21ce9298dd973f15ad5b6e6b326d63687ceccef9405d795fb7888fa02"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[cfastcdr]]
+arch = "x86_64"
+git-tree-sha1 = "984bab5be15a7ad43b23819386e97c3e8f9e224b"
+os = "macos"
+
+    [[cfastcdr.download]]
+    sha256 = "4e5b6a254ba5dedc670b7d2f01dea996fcbdd2bef29db4f1379990bca4513026"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[cfastcdr]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "300216d21b4b7174162ac724c84c920ce377f38d"
+libc = "glibc"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "fa515118bbba093654148ee2998cdfad02256c952df2edd49c404d5d8361c72b"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[cfastcdr]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "457fa789879720c9d107fe1d8402b8e1c701c849"
+libc = "glibc"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "2eeddcc11f07700a03a30f6cece194c98be928bfc771fb4d6149dac2e4538800"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[cfastcdr]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4ada9cf5b8a341730d269fcdd7986f54ab97b3d7"
+libc = "musl"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "8669fe55cc8e149af2e0e5a2ab78a95198609d695897f7b52177dfc84bd0c46c"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[cfastcdr]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dce284a5a91cf4963d970338089af3ac2e017f99"
+libc = "musl"
+os = "linux"
+
+    [[cfastcdr.download]]
+    sha256 = "2a29e18438b8667e27fc0d90fee9c4b15ed158ee6f00f746a72e829f527b85a9"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[cfastcdr]]
+arch = "x86_64"
+git-tree-sha1 = "bfe41750a71ab41195603831914e3720b3acbfae"
+os = "freebsd"
+
+    [[cfastcdr.download]]
+    sha256 = "becdb05fc0612e62b8cb767ec4fea9daa12d707795aaf262b5bf01aa0c8f4ee5"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[cfastcdr]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7295a64ec5a00030b2aede4b93212128d98fc569"
+os = "windows"
+
+    [[cfastcdr.download]]
+    sha256 = "4a1ccf9457fc07d1919f5001a767172e0555ec5c4b36f87b03a0d10e0800d53a"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[cfastcdr]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2a22692824110df5cffa9d84428cc51fffc46d0e"
+os = "windows"
+
+    [[cfastcdr.download]]
+    sha256 = "827ae6f1b53bb174036053cc42c1ebe8b9a2740b8ab7c4723863d1675bb2d553"
+    url = "https://github.com/JuliaBinaryWrappers/cfastcdr_jll.jl/releases/download/cfastcdr-v1.0.0+0/cfastcdr.v1.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
